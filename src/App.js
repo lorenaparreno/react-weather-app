@@ -9,8 +9,8 @@ export default function App() {
 
         <Weather />
         <footer>This project was coded by {""}
-          <a href="https://github.com/lorenaparreno" target="_blank">Lorena Parreno</a>{""} and is open-sourced on {""}
-          <a href="https://github.com/lorenaparreno/react-weather-app" target="_blank">GitHub</a>
+          <a href="https://github.com/lorenaparreno" target="_blank" className="custom-link">Lorena Parreno</a>{""} and is open-sourced on {""}
+          <a href="https://github.com/lorenaparreno/react-weather-app" target="_blank" className="custom-link">GitHub</a>
         </footer>
       </div>
     </div>
