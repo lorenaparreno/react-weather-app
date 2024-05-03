@@ -8,8 +8,8 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="New York" />
         <footer>This project was coded by {""}
-          <a href="https://github.com/lorenaparreno" target="_blank" className="custom-link">Lorena Parreno</a>{""} and is open-sourced on {""}
-          <a href="https://github.com/lorenaparreno/react-weather-app" target="_blank" className="custom-link">GitHub</a>
+          <a href="https://github.com/lorenaparreno" target="_blank" className="custom-link" rel="noreferrer">Lorena Parreno</a>{""} and is open-sourced on {""}
+          <a href="https://github.com/lorenaparreno/react-weather-app" target="_blank" className="custom-link" rel="noreferrer">GitHub</a>
         </footer>
       </div>
     </div>
