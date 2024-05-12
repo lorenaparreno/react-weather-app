@@ -4,8 +4,9 @@
 }
 
 .App footer {
-    font-size: 11px;
+    font-size: 12px;
     margin-top: -20px;
+    margin-left: 5px;
 }
 
 a {
